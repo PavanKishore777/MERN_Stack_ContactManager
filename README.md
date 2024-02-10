@@ -1,9 +1,10 @@
 Make sure installed all node packages in server and app directory-Note this app totally on react with Type script on functional based components and even in backend alos node,express,Mogodb and type script  
-and if you need any file to upload locally from the computer then go through the code in add and edit contact where i had commented the code of upload image loacally 
+and if you need any to upload image photofile from locally on computer then go through the code in Components AddContact.tsx and Editcontact.tsx where i had commented the code of upload image loacally on below of the image input make it uncommneted and commnet the file ype image input it works perfectly this changes makes u the App works
 until then in image url u have to upload only a web url from web if not make change in the code what i mentioned above
 ==================================
 ProjectLink: Deployed on render
-https://contact-manager-app-dwn3.onrender.com/----------------->in here image url is from web not from loacl
+https://contact-manager-app-dwn3.onrender.com/  
+----------------->in here image url is from web not from loacl
 
 
 
